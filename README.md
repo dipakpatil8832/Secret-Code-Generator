@@ -11,7 +11,7 @@ A simple web application to **encode and decode messages** using a Caesar cipher
 - Clean, centered, and responsive design  
 
 ## Technologies Used
--**Python** - main logic
+- **Python** - main logic
 - **HTML** – Page structure  
 - **CSS** – Styling and layout  
 - **JavaScript** – Encoding and decoding logic
